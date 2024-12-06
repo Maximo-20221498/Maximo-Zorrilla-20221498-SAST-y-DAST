@@ -1,0 +1,7 @@
+asgiref
+django
+Pillow
+psycopg2-binary
+sqlparse
+tzdata
+
